@@ -1,2 +1,0 @@
-# vidkaryaproject
-admin login process
